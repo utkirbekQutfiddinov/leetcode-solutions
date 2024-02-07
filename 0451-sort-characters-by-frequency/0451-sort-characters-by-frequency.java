@@ -13,7 +13,6 @@ class Solution {
             }
         }
         
-        
         StringBuilder sb=new StringBuilder();
         
         int maxIndex=findMax(c);
