@@ -13,9 +13,7 @@ class Solution {
     }
     
     private boolean isPalindrome(String s){
-        //System.out.println(": "+s);
         for(int i=0; i<s.length(); i++){
-            //System.out.println(s.charAt(i)+", "+s.charAt(s.length()-1-i));
             if(s.charAt(i)!=s.charAt(s.length()-1-i)){
                 return false;
             }
