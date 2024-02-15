@@ -3,14 +3,8 @@ class Solution {
         
         int[] distances=new int[s.length()];
         
-        
         int left=0,right=0;
         for(int i=0; i<s.length(); i++){
-            
-            if(s.charAt(i)==c){
-                distances[i]=0;
-                continue;
-            }
             
             for(left=i; left>=0&&s.charAt(left)!=c; left--){}
             
