@@ -1,6 +1,7 @@
 class Solution {
     public int getLucky(String s, int k) {
         s=convert(s);
+
         int res=transform(s);
 
         for(int i=0; i<k-1; i++){
@@ -10,14 +11,16 @@ class Solution {
         return res;
     }
 
+
     private String convert(String str){
         StringBuilder sb=new StringBuilder("");
-        int son;
+        int son=0;
 
         for(char c: str.toCharArray()){
-            son=c-'a';
-            sb.append(son+1);
+            son=c-'a'+1;
+            sb.append(""+son);
         }
+
         return sb.toString();
     }
 
@@ -25,18 +28,18 @@ class Solution {
         int sum=0;
 
         for(char c: str.toCharArray()){
-            sum=sum+(int)c-48;
+            sum+=c-'0';
         }
 
         return sum;
     }
 
-    private int transform(int num){
+    private int transform(int son){
         int sum=0;
 
-        while(num!=0){
-            sum+=num%10;
-            num/=10;
+        while(son!=0){
+            sum+=son%10;
+            son/=10;
         }
         return sum;
     }
