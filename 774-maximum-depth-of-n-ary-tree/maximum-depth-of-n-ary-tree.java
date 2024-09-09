@@ -22,15 +22,21 @@ class Solution {
         if(root==null){
             return 0;
         }
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        int s=0;
         int res=0;
-        if(root.children==null){
-            return 1;
+        Node node=null;
+
+        while(!q.isEmpty()){
+            res++;
+            s=q.size();
+            for(int i=0; i<s; i++){
+                node = q.poll();
+                q.addAll(node.children);
+            }
         }
         
-        for(int i=0; i<root.children.size(); i++){
-            res=Math.max(res, maxDepth(root.children.get(i)));
-        }
-        
-        return res+1;
+        return res;
     }
 }
