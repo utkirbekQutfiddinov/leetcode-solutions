@@ -1,32 +1,34 @@
 class Solution {
     public String shortestPalindrome(String s) {
-        StringBuilder sb=new StringBuilder(s);
-
         int count=0;
 
-        for(int i=sb.length()-1; i>=0; i--){
-            if(isP(sb.substring(0,i+1))){
+
+        for(int i=s.length()-1; i>=0; i--){
+            if(isPalindrome(s.substring(0,i+1))){
                 break;
             }else {
                 count++;
             }
         }
 
+        System.out.println(count);
 
-        StringBuilder orqa=new StringBuilder(s.substring(s.length()-count)).reverse();
-        sb.insert(0,orqa);
+        StringBuilder sb=new StringBuilder(s);
+        StringBuilder sb1=new StringBuilder(s.substring(s.length()-count));
+
+        sb.insert(0,sb1.reverse().toString());
+
         return sb.toString();
-
     }
 
-
-    private boolean isP(String s){
-        for(int i=0; i<s.length(); i++){
-            if(s.charAt(i)!=s.charAt(s.length()-i-1)){
+    private boolean isPalindrome(String s){
+        for(int i=0; i<s.length()/2+1; i++){
+            if(s.charAt(i)!=s.charAt(s.length()-1-i)){
                 return false;
             }
         }
-
         return true;
     }
+
+    
 }
