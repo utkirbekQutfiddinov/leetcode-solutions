@@ -1,19 +1,13 @@
 class Solution {
     public List<Integer> lexicalOrder(int n) {
-        String[] s=new String[n];
+        TreeSet<String> s=new TreeSet<>();
 
-        for(int i=0; i<n; i++){
-            s[i]=String.valueOf(i+1);
+        for(int i=1; i<=n; i++){
+            s.add(String.valueOf(i));
         }
 
-        Arrays.sort(s);
-
-        List<Integer> l=new ArrayList<>();
-
-        for(String num: s){
-            l.add(Integer.parseInt(num));
-        }
-
-        return l;
+        return s.stream()
+                .map(Integer::parseInt)
+                .toList();
     }
 }
