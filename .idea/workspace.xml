@@ -5,24 +5,168 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9883015f-2079-457a-a487-83ee6945f58a" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0067.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0258.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0485.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/$0500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/$0002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/$0148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/$0162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/$0167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/$0438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0125-valid-palindrome/0125-valid-palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0125-valid-palindrome/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0125-valid-palindrome/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0009-palindrome-number/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0977-squares-of-a-sorted-array/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0977-squares-of-a-sorted-array/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-two-sum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0001-two-sum/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-two-sum/two-sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/0001-two-sum/two-sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-balanced-binary-tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0110-balanced-binary-tree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/110-balanced-binary-tree/balanced-binary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/0110-balanced-binary-tree/balanced-binary-tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/118-pascals-triangle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0118-pascals-triangle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/118-pascals-triangle/pascals-triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/0118-pascals-triangle/pascals-triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/121-best-time-to-buy-and-sell-stock/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0121-best-time-to-buy-and-sell-stock/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/0121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/125-valid-palindrome/125-valid-palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/0125-valid-palindrome/125-valid-palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/125-valid-palindrome/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0013-roman-to-integer/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/125-valid-palindrome/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/129-sum-root-to-leaf-numbers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/129-sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/0129-sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-roman-to-integer/13-roman-to-integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/0013-roman-to-integer/13-roman-to-integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-roman-to-integer/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0043-multiply-strings/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-roman-to-integer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0013-roman-to-integer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/169-majority-element/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0169-majority-element/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/169-majority-element/majority-element.java" beforeDir="false" afterPath="$PROJECT_DIR$/0169-majority-element/majority-element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/171-excel-sheet-column-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0171-excel-sheet-column-number/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/179-largest-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0179-largest-number/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/189-rotate-array/189-rotate-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/0189-rotate-array/189-rotate-array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/189-rotate-array/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0189-rotate-array/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/189-rotate-array/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0189-rotate-array/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190-reverse-bits/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0190-reverse-bits/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190-reverse-bits/reverse-bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/0190-reverse-bits/reverse-bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/204-count-primes/204-count-primes.java" beforeDir="false" afterPath="$PROJECT_DIR$/0204-count-primes/204-count-primes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/204-count-primes/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0204-count-primes/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/204-count-primes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0204-count-primes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/205-isomorphic-strings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0205-isomorphic-strings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/205-isomorphic-strings/isomorphic-strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/0205-isomorphic-strings/isomorphic-strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/214-shortest-palindrome/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0214-shortest-palindrome/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/214-shortest-palindrome/shortest-palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/0214-shortest-palindrome/shortest-palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/217-contains-duplicate/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0217-contains-duplicate/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/217-contains-duplicate/contains-duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/0217-contains-duplicate/contains-duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/236-lowest-common-ancestor-of-a-binary-tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0236-lowest-common-ancestor-of-a-binary-tree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/236-lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/0236-lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/258-add-digits/258-add-digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/0258-add-digits/258-add-digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/258-add-digits/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0258-add-digits/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/258-add-digits/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0258-add-digits/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/263-ugly-number/263-ugly-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/0263-ugly-number/263-ugly-number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/263-ugly-number/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0263-ugly-number/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/263-ugly-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0263-ugly-number/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-longest-substring-without-repeating-characters/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0003-longest-substring-without-repeating-characters/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/326-power-of-three/326-power-of-three.java" beforeDir="false" afterPath="$PROJECT_DIR$/0326-power-of-three/326-power-of-three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/326-power-of-three/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0326-power-of-three/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/326-power-of-three/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0326-power-of-three/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/338-counting-bits/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0338-counting-bits/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/338-counting-bits/counting-bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/0338-counting-bits/counting-bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/342-power-of-four/342-power-of-four.java" beforeDir="false" afterPath="$PROJECT_DIR$/0342-power-of-four/342-power-of-four.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/342-power-of-four/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0342-power-of-four/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/342-power-of-four/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0342-power-of-four/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/344-reverse-string/344-reverse-string.java" beforeDir="false" afterPath="$PROJECT_DIR$/0344-reverse-string/344-reverse-string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/344-reverse-string/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0344-reverse-string/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/344-reverse-string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0344-reverse-string/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/349-intersection-of-two-arrays/349-intersection-of-two-arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/0349-intersection-of-two-arrays/349-intersection-of-two-arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/349-intersection-of-two-arrays/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0349-intersection-of-two-arrays/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/349-intersection-of-two-arrays/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0349-intersection-of-two-arrays/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/386-lexicographical-numbers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0386-lexicographical-numbers/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/386-lexicographical-numbers/lexicographical-numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/0386-lexicographical-numbers/lexicographical-numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/389-find-the-difference/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0389-find-the-difference/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/414-third-maximum-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0414-third-maximum-number/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/414-third-maximum-number/third-maximum-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/0414-third-maximum-number/third-maximum-number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/415-add-strings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0415-add-strings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/415-add-strings/add-strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/0415-add-strings/add-strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43-multiply-strings/43-multiply-strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/0043-multiply-strings/43-multiply-strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43-multiply-strings/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0434-number-of-segments-in-a-string/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43-multiply-strings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0043-multiply-strings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/432-all-oone-data-structure/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0432-all-oone-data-structure/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/432-all-oone-data-structure/all-oone-data-structure.java" beforeDir="false" afterPath="$PROJECT_DIR$/0432-all-oone-data-structure/all-oone-data-structure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/434-number-of-segments-in-a-string/434-number-of-segments-in-a-string.java" beforeDir="false" afterPath="$PROJECT_DIR$/0434-number-of-segments-in-a-string/434-number-of-segments-in-a-string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/434-number-of-segments-in-a-string/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0507-perfect-number/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/434-number-of-segments-in-a-string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0434-number-of-segments-in-a-string/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/440-k-th-smallest-in-lexicographical-order/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0440-k-th-smallest-in-lexicographical-order/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/440-k-th-smallest-in-lexicographical-order/k-th-smallest-in-lexicographical-order.java" beforeDir="false" afterPath="$PROJECT_DIR$/0440-k-th-smallest-in-lexicographical-order/k-th-smallest-in-lexicographical-order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/461-hamming-distance/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0461-hamming-distance/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/461-hamming-distance/hamming-distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/0461-hamming-distance/hamming-distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/492-construct-the-rectangle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0492-construct-the-rectangle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/492-construct-the-rectangle/construct-the-rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/0492-construct-the-rectangle/construct-the-rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/496-next-greater-element-i/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0496-next-greater-element-i/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/496-next-greater-element-i/next-greater-element-i.java" beforeDir="false" afterPath="$PROJECT_DIR$/0496-next-greater-element-i/next-greater-element-i.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-powx-n/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0050-powx-n/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/50-powx-n/powx-n.java" beforeDir="false" afterPath="$PROJECT_DIR$/0050-powx-n/powx-n.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/500-keyboard-row/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0500-keyboard-row/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/500-keyboard-row/keyboard-row.java" beforeDir="false" afterPath="$PROJECT_DIR$/0500-keyboard-row/keyboard-row.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/504-base-7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0504-base-7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/504-base-7/base-7.java" beforeDir="false" afterPath="$PROJECT_DIR$/0504-base-7/base-7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/507-perfect-number/507-perfect-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/0507-perfect-number/507-perfect-number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/507-perfect-number/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0509-fibonacci-number/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/507-perfect-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0507-perfect-number/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/507-perfect-number/perfect-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/0507-perfect-number/perfect-number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/509-fibonacci-number/509-fibonacci-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/0509-fibonacci-number/509-fibonacci-number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/509-fibonacci-number/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0766-toeplitz-matrix/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/509-fibonacci-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0509-fibonacci-number/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/539-minimum-time-difference/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0539-minimum-time-difference/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/539-minimum-time-difference/minimum-time-difference.java" beforeDir="false" afterPath="$PROJECT_DIR$/0539-minimum-time-difference/minimum-time-difference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55-jump-game/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0055-jump-game/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55-jump-game/jump-game.java" beforeDir="false" afterPath="$PROJECT_DIR$/0055-jump-game/jump-game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/566-reshape-the-matrix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0566-reshape-the-matrix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/566-reshape-the-matrix/reshape-the-matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/0566-reshape-the-matrix/reshape-the-matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/643-maximum-average-subarray-i/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0643-maximum-average-subarray-i/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/643-maximum-average-subarray-i/maximum-average-subarray-i.java" beforeDir="false" afterPath="$PROJECT_DIR$/0643-maximum-average-subarray-i/maximum-average-subarray-i.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/69-sqrtx/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0069-sqrtx/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/69-sqrtx/sqrtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/0069-sqrtx/sqrtx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-climbing-stairs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0070-climbing-stairs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70-climbing-stairs/climbing-stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/0070-climbing-stairs/climbing-stairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/725-split-linked-list-in-parts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0725-split-linked-list-in-parts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/725-split-linked-list-in-parts/split-linked-list-in-parts.java" beforeDir="false" afterPath="$PROJECT_DIR$/0725-split-linked-list-in-parts/split-linked-list-in-parts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/729-my-calendar-i/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0729-my-calendar-i/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/729-my-calendar-i/my-calendar-i.java" beforeDir="false" afterPath="$PROJECT_DIR$/0729-my-calendar-i/my-calendar-i.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/731-my-calendar-ii/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0731-my-calendar-ii/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/75-sort-colors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0075-sort-colors/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/75-sort-colors/sort-colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/0075-sort-colors/sort-colors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/766-toeplitz-matrix/766-toeplitz-matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/0766-toeplitz-matrix/766-toeplitz-matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/766-toeplitz-matrix/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0796-rotate-string/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/766-toeplitz-matrix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0766-toeplitz-matrix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/774-maximum-depth-of-n-ary-tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0774-maximum-depth-of-n-ary-tree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/774-maximum-depth-of-n-ary-tree/maximum-depth-of-n-ary-tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/0774-maximum-depth-of-n-ary-tree/maximum-depth-of-n-ary-tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/796-rotate-string/796-rotate-string.java" beforeDir="false" afterPath="$PROJECT_DIR$/0796-rotate-string/796-rotate-string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/796-rotate-string/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0859-buddy-strings/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/796-rotate-string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0796-rotate-string/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-string-to-integer-atoi/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0008-string-to-integer-atoi/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-string-to-integer-atoi/string-to-integer-atoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/0008-string-to-integer-atoi/string-to-integer-atoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-remove-duplicates-from-sorted-array-ii/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0080-remove-duplicates-from-sorted-array-ii/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/859-buddy-strings/859-buddy-strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/0859-buddy-strings/859-buddy-strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/859-buddy-strings/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0867-transpose-matrix/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/859-buddy-strings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0859-buddy-strings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/867-transpose-matrix/867-transpose-matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/0867-transpose-matrix/867-transpose-matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/867-transpose-matrix/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0896-monotonic-array/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/867-transpose-matrix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0867-transpose-matrix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/896-monotonic-array/896-monotonic-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/0896-monotonic-array/896-monotonic-array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/896-monotonic-array/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/0941-valid-mountain-array/NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/896-monotonic-array/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0896-monotonic-array/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-palindrome-number/9-palindrome-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/0009-palindrome-number/9-palindrome-number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-palindrome-number/NOTES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-palindrome-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0009-palindrome-number/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/906-walking-robot-simulation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0906-walking-robot-simulation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/906-walking-robot-simulation/walking-robot-simulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/0906-walking-robot-simulation/walking-robot-simulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/920-uncommon-words-from-two-sentences/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0920-uncommon-words-from-two-sentences/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/920-uncommon-words-from-two-sentences/uncommon-words-from-two-sentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/0920-uncommon-words-from-two-sentences/uncommon-words-from-two-sentences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/94-binary-tree-inorder-traversal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0094-binary-tree-inorder-traversal/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/94-binary-tree-inorder-traversal/binary-tree-inorder-traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/941-sort-array-by-parity/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0941-sort-array-by-parity/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/941-sort-array-by-parity/sort-array-by-parity.java" beforeDir="false" afterPath="$PROJECT_DIR$/0941-sort-array-by-parity/sort-array-by-parity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/941-valid-mountain-array/941-valid-mountain-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/0941-valid-mountain-array/941-valid-mountain-array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/941-valid-mountain-array/NOTES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/941-valid-mountain-array/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0941-valid-mountain-array/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/969-number-of-recent-calls/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0969-number-of-recent-calls/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/969-number-of-recent-calls/number-of-recent-calls.java" beforeDir="false" afterPath="$PROJECT_DIR$/0969-number-of-recent-calls/number-of-recent-calls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/977-squares-of-a-sorted-array/977-squares-of-a-sorted-array.java" beforeDir="false" afterPath="$PROJECT_DIR$/0977-squares-of-a-sorted-array/977-squares-of-a-sorted-array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/977-squares-of-a-sorted-array/NOTES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/977-squares-of-a-sorted-array/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/988-flip-equivalent-binary-trees/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0988-flip-equivalent-binary-trees/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/988-flip-equivalent-binary-trees/flip-equivalent-binary-trees.java" beforeDir="false" afterPath="$PROJECT_DIR$/0988-flip-equivalent-binary-trees/flip-equivalent-binary-trees.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +189,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "utkirbekQutfiddinov"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/utkirbekQutfiddinov/leetcode-solutions.git",
+    "accountId": "168f298d-e0af-4206-aec2-39a0d4f16470"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="22pxzP1nkYXm6qq38PRNZonwJMb" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,14 +211,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/utkirbek/shaxsiy/leetcode-solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
@@ -74,6 +239,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,6 +260,7 @@
       <workItem from="1640581437071" duration="12000" />
       <workItem from="1645718601229" duration="726000" />
       <workItem from="1645720002868" duration="604000" />
+      <workItem from="1762944271335" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1640548757285</created>
@@ -118,7 +292,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

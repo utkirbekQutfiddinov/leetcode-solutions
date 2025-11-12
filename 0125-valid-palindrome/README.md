@@ -3,21 +3,21 @@
 <p>Given a string <code>s</code>, return <code>true</code><em> if it is a <strong>palindrome</strong>, or </em><code>false</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong>Example 1:</strong></p>
 
 <pre><strong>Input:</strong> s = "A man, a plan, a canal: Panama"
 <strong>Output:</strong> true
 <strong>Explanation:</strong> "amanaplanacanalpanama" is a palindrome.
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong>Example 2:</strong></p>
 
 <pre><strong>Input:</strong> s = "race a car"
 <strong>Output:</strong> false
 <strong>Explanation:</strong> "raceacar" is not a palindrome.
 </pre>
 
-<p><strong class="example">Example 3:</strong></p>
+<p><strong>Example 3:</strong></p>
 
 <pre><strong>Input:</strong> s = " "
 <strong>Output:</strong> true
