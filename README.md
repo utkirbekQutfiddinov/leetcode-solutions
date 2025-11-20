@@ -31,4 +31,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0292-nim-game) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
