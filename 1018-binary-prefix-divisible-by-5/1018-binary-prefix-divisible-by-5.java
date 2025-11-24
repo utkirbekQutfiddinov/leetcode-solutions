@@ -4,7 +4,7 @@ class Solution {
         List<Boolean> res=new ArrayList<>();
 
         for(int i: nums){
-            num=(num*2+i)%100;
+            num=(num*2+i)%5;
             res.add(num%5==0);
         }
 
