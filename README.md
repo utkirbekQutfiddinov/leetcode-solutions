@@ -50,6 +50,7 @@
 | [0520-detect-capital](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## Binary Search
 |  |
 | ------- |
