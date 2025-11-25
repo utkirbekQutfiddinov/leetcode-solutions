@@ -9,6 +9,7 @@
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -61,6 +62,7 @@
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0917-reverse-only-letters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -89,6 +92,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 ## Stack
 |  |
 | ------- |
