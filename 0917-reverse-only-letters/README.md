@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reverse-only-letters/">917. Reverse Only Letters</a></h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>, reverse the string according to the following rules:</p>
+<h2><a href="https://leetcode.com/problems/reverse-only-letters">953. Reverse Only Letters</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, reverse the string according to the following rules:</p>
 
 <ul>
 	<li>All the characters that are not English letters remain in the same position.</li>
@@ -24,6 +24,5 @@
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 100</code></li>
 	<li><code>s</code> consists of characters with ASCII values in the range <code>[33, 122]</code>.</li>
-	<li><code>s</code> does not contain <code>'\"'</code> or <code>'\\'</code>.</li>
+	<li><code>s</code> does not contain <code>&#39;\&quot;&#39;</code> or <code>&#39;\\&#39;</code>.</li>
 </ul>
-</div>
