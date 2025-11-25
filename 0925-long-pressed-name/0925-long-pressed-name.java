@@ -28,6 +28,5 @@ class Solution {
 
 
         return t==typed.length() && n==name.length();
-        //return true;
     }
 }
