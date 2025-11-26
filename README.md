@@ -72,6 +72,7 @@
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +115,5 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
