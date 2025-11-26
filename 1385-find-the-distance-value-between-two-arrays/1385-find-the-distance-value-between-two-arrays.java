@@ -1,28 +1,21 @@
 class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
-        Set<Integer> nums=new HashSet<>();
+       int res=0;
+       boolean isOk=false;
 
-        for(int i: arr2){
-            nums.add(i);
-        }
-
-        int res=0;
-
-        for(int i: arr1){
-            if(check(i,d,nums)){
+       for(int i=0; i<arr1.length; i++){
+            isOk=true;
+            for(int j=0; j<arr2.length; j++){
+                if(Math.abs(arr2[j]-arr1[i])<=d){
+                    isOk=false;
+                    break;
+                }
+            }
+            if(isOk){
                 res++;
             }
-        }
+       }
 
         return res;
-    }
-
-    boolean check(int i, int distance, Set<Integer> nums){
-        for(int j: nums){
-            if(Math.abs(i-j)<=distance){
-                return false;
-            }
-        }
-        return true;
     }
 }
