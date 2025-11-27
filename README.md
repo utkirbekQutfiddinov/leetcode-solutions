@@ -20,6 +20,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Simulation
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
 |  |
 | ------- |
