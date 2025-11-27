@@ -28,6 +28,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
@@ -130,6 +131,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -149,4 +152,8 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+## Enumeration
+|  |
+| ------- |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
