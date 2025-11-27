@@ -1,9 +1,20 @@
 class Solution {
     public String makeSmallestPalindrome(String s) {
-        for(int i=0; i<s.length()/2; i++){
-            char c = (char)Math.min((int)s.charAt(i),(int)s.charAt(s.length()-1-i));
-            s = s.substring(0,i) + c + s.substring(i+1,s.length()-i-1) + c + s.substring(s.length()-i);
+        char[] chars=s.toCharArray();
+
+        int l=0, r=chars.length-1;
+
+        while(l<r){
+            if(chars[l]<chars[r]){
+                chars[r]=chars[l];
+            }else if(chars[l]>chars[r]){
+                chars[l]=chars[r];
+            }
+
+            r--;
+            l++;
         }
-        return s;
+
+        return new String(chars);
     }
 }
