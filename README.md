@@ -26,6 +26,7 @@
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Hash Table
@@ -39,6 +40,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
@@ -123,6 +125,7 @@
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
