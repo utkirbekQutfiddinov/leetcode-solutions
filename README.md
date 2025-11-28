@@ -73,6 +73,7 @@
 | [0292-nim-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0292-nim-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -98,10 +99,12 @@
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +141,7 @@
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
 | ------- |
