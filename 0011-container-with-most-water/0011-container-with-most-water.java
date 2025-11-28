@@ -7,12 +7,12 @@ class Solution {
             if(currArea>maxArea){
                 maxArea=currArea;
             }
-            lastArea=currArea;
-             if(height[l]>height[r]){
-                    r--;
-                }else {
-                    l++;
-                }
+            
+            if(height[l]>height[r]){
+                r--;
+            }else {
+                l++;
+            }
         }
 
     return maxArea;
