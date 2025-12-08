@@ -39,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -76,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0292-nim-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0520-detect-capital](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
