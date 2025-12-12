@@ -1,28 +1,23 @@
 class Solution {
     public int longestPalindrome(String s) {
-        int[] chars=new int[52];
-        char c;
-        for(int i=0; i<s.length(); i++){
-            c=s.charAt(i);
-            if(Character.isLowerCase(c))
-            chars[(int)c-97]++;
-            else
-            chars[(int)c-65+26]++;
+        Map<Character, Integer> freqs=new HashMap<>();
+
+        for (char c : s.toCharArray()) {
+            freqs.merge(c, 1, Integer::sum);
         }
-        
-        boolean toqbor=false;
-        int juftSum=0;
-        
-        for(int i=0; i<52; i++){
-            if(chars[i]%2==1) {
-                toqbor=true;
-                juftSum+=chars[i]-1;
+
+        int len=0;
+        boolean toqMavjud=false;
+
+        for(int freq: freqs.values()){
+            if(freq%2==0){
+                len+=freq;
             }else {
-                juftSum+=chars[i];
+                len+=freq-1;
+                toqMavjud=true;
             }
         }
-        
-        if(toqbor) return juftSum+1;
-        else return juftSum;
+
+        return toqMavjud?len+1:len;
     }
 }
