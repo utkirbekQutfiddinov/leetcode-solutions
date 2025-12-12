@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -51,6 +52,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
