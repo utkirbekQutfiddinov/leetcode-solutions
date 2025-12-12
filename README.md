@@ -11,6 +11,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -53,6 +54,7 @@
 | [0389-find-the-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -114,6 +116,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
