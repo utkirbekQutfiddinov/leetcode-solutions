@@ -14,6 +14,7 @@
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
@@ -59,6 +60,7 @@
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -235,6 +237,7 @@
 | [0141-linked-list-cycle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,8 +250,10 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
