@@ -1,15 +1,24 @@
 class Solution {
-   public int findJudge(int n, int[][] trust) {
-        int[] trusters = new int[n + 1];
-        int[] trusting = new int[n + 1];
-        for (int[] a : trust) {
-            trusting[a[0]]++;
-            trusters[a[1]]++;
+    public int findJudge(int n, int[][] trusts) {
+
+        if(trusts.length==0 && n==1){
+            return 1;
         }
-        for (int i = 1; i <= n; ++i) {
-            if (trusters[i] == n - 1 && trusting[i] == 0)
-                return i;
+
+
+        Map<Integer, Integer> trustersMap=new HashMap<>(), trustingMap=new HashMap<>();
+
+        for(int[] trust: trusts){
+            trustersMap.merge(trust[1],1, Integer::sum);
+            trustingMap.merge(trust[0],1, Integer::sum);
         }
+
+        for(Integer key: trustersMap.keySet()){
+            if(trustersMap.get(key).equals(n-1) && !trustingMap.containsKey(key)){
+                return key;
+            }
+        }
+
         return -1;
     }
 }
