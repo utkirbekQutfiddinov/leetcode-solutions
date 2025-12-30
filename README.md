@@ -21,6 +21,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0888-fair-candy-swap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -73,6 +74,7 @@
 | [0859-buddy-strings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -151,6 +153,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
