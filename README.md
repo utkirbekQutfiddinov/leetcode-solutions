@@ -24,6 +24,7 @@
 | [0929-unique-email-addresses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1089-duplicate-zeros) |
@@ -77,6 +78,7 @@
 | [0888-fair-candy-swap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
