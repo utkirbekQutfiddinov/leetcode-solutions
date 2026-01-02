@@ -1,5 +1,5 @@
 class Solution {
-    public int repeatedNTimes(int[] nums) {
+     public int repeatedNTimes(int[] nums) {
         Map<Integer, Integer> freqs=new HashMap<>();
         int freq=0;
         for(int i: nums){
