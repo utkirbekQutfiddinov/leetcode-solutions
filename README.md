@@ -30,6 +30,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -129,6 +130,7 @@
 | [0292-nim-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0292-nim-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Brainteaser
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
