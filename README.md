@@ -316,10 +316,12 @@
 ## Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -328,6 +330,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Geometry
 |  |
