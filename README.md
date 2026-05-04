@@ -160,6 +160,7 @@
 | [0389-find-the-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0541-reverse-string-ii) |
@@ -357,4 +358,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
