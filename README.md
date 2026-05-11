@@ -47,6 +47,7 @@
 | [2465-number-of-distinct-averages](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -128,6 +129,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Math
