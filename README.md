@@ -190,6 +190,7 @@
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -296,6 +297,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
 | ------- |
