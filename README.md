@@ -78,6 +78,7 @@
 | [0389-find-the-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -170,6 +171,7 @@
 | [0409-longest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -295,6 +297,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
