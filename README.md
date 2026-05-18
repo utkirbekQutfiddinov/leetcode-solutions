@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Enumeration
@@ -341,6 +342,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
