@@ -23,6 +23,7 @@
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0748-shortest-completing-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -292,6 +293,7 @@
 | [0020-valid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Enumeration
@@ -406,4 +408,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
