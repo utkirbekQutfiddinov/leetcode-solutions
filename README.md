@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0169-majority-element) |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -411,5 +413,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
