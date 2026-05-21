@@ -60,6 +60,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -109,6 +110,7 @@
 | [2465-number-of-distinct-averages](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3531-count-covered-buildings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
@@ -209,6 +211,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bit Manipulation
@@ -415,4 +418,8 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
