@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -273,6 +274,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -376,6 +378,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
