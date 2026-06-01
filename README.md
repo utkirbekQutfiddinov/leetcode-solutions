@@ -54,6 +54,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -138,6 +139,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
@@ -307,6 +309,7 @@
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
