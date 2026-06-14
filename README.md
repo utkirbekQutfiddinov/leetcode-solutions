@@ -270,6 +270,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -330,6 +331,7 @@
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0853-car-fleet) |
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [0206-reverse-linked-list](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
