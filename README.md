@@ -167,6 +167,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -372,6 +373,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0146-lru-cache) |
@@ -471,6 +473,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
