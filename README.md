@@ -38,6 +38,7 @@
 | [0853-car-fleet](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0896-monotonic-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0929-unique-email-addresses) |
