@@ -442,6 +442,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -452,6 +453,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -471,6 +473,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -513,4 +516,8 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0401-binary-watch) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
