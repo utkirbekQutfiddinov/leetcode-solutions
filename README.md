@@ -56,6 +56,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1732-find-the-highest-altitude](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -232,6 +233,7 @@
 | [1768-merge-strings-alternately](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
