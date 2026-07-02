@@ -26,6 +26,7 @@
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
