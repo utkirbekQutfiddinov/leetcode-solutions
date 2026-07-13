@@ -359,6 +359,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Dynamic Programming
 |  |
