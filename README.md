@@ -75,6 +75,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -131,6 +132,7 @@
 | [2465-number-of-distinct-averages](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3531-count-covered-buildings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3531-count-covered-buildings) |
@@ -155,6 +157,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
