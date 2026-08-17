@@ -88,6 +88,7 @@
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3701-compute-alternating-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
@@ -172,6 +173,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Simulation
 |  |
 | ------- |
