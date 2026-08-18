@@ -84,6 +84,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3467-transform-array-by-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3531-count-covered-buildings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -142,6 +143,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3531-count-covered-buildings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
