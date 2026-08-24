@@ -52,6 +52,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -484,6 +486,7 @@
 | [0074-search-a-2d-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Number Theory
