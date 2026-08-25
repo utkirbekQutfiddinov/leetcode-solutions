@@ -255,6 +255,7 @@
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0748-shortest-completing-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0748-shortest-completing-word) |
+| [0796-rotate-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -555,6 +556,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Union-Find
 |  |
 | ------- |
