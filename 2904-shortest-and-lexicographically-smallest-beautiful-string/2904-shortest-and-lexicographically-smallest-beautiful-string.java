@@ -1,13 +1,10 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
         List<String> list=new ArrayList<>();
-        int ones=0;
-        int left=0, right=0;
-        int minLen=Integer.MAX_VALUE;
+        int ones=0, left=0, right=0, minLen=Integer.MAX_VALUE;
 
         while(right<s.length()){
             while(left<=right && s.charAt(left)=='0'){
-                System.out.println(s.substring(left,right)+", left=0");
                 left++;
             }
 
@@ -18,30 +15,19 @@ class Solution {
             right++;
 
             if(ones==k){
-                String sub=s.substring(left, right);
                 minLen=Math.min(minLen, right-left);
-                list.add(sub);
+                list.add(s.substring(left, right));
                 ones--;
                 left++;
             }
         }
 
-
-        System.out.print(list);
         int len=minLen;
-        list=list.stream().filter(a->a.length()==len).toList();
-        System.out.println("=>"+list);
+        list=list.stream()
+                .filter(a->a.length()==len)
+                .sorted()
+                .toList();
         
-        if(list.isEmpty()){
-            return "";
-        }
-
-        String result=list.getFirst();
-        for(String str: list){
-            if(str.compareTo(result)<0){
-                result=str;
-            }
-        }
-        return result;
+        return list.isEmpty()?"":list.getFirst();
     }
 }
