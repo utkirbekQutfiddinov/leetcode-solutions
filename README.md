@@ -282,6 +282,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -423,6 +424,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
