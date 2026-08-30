@@ -19,9 +19,10 @@ class Solution {
         List<Integer> level=null;
         Queue<TreeNode> que=new ArrayDeque<>();
         if(root!=null) que.add(root);
-        int queSize=que.size();
+        int queSize;
         TreeNode curr=null;
-        while(queSize>0){
+        while(!que.isEmpty()){
+            queSize=que.size();
             level=new ArrayList<>();
                 
             for(int i=0; i<queSize; i++){
@@ -31,7 +32,6 @@ class Solution {
                 if(curr.right!=null) que.add(curr.right);
             }
             result.add(level);
-            queSize=que.size();
         }
         return result;
     }
