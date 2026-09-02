@@ -101,6 +101,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Hash Table
@@ -232,6 +233,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Brainteaser
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [1291-sequential-digits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
 |  |
@@ -512,6 +515,7 @@
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Tree
 |  |
 | ------- |
