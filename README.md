@@ -101,6 +101,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
+| [4024-nearest-available-drone](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +411,7 @@
 | [1291-sequential-digits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4024-nearest-available-drone](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
 |  |
 | ------- |
