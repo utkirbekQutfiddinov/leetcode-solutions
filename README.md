@@ -299,6 +299,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [4006-count-valid-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -452,6 +453,7 @@
 | [2833-furthest-point-from-origin](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [4006-count-valid-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Linked List
 |  |
 | ------- |
