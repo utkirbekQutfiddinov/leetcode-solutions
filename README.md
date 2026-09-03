@@ -207,6 +207,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4020-elevator-requests-i) |
@@ -300,6 +301,7 @@
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [4006-count-valid-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Bit Manipulation
@@ -362,6 +364,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
