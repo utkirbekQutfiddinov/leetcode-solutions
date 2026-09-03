@@ -317,6 +317,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3827-count-monobit-integers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [1291-sequential-digits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3827-count-monobit-integers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
