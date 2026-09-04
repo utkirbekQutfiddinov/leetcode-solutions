@@ -159,6 +159,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3531-count-covered-buildings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -190,6 +191,7 @@
 | [3467-transform-array-by-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3531-count-covered-buildings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -301,6 +303,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -405,6 +408,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
@@ -464,6 +468,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4006-count-valid-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Linked List
 |  |
