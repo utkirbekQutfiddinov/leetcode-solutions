@@ -209,6 +209,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3582-generate-tag-for-video-caption](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3612-process-string-with-special-operations-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -305,6 +306,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3582-generate-tag-for-video-caption](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
