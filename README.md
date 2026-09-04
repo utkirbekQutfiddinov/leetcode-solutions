@@ -235,6 +235,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
