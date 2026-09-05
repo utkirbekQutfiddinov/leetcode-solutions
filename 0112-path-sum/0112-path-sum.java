@@ -15,28 +15,15 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        Queue<TreeNode> nodes=new ArrayDeque<>();
-        if(root!=null) nodes.add(root);
-
-        int len;
-        while(!nodes.isEmpty()){
-            len=nodes.size();
-            for(int i=0; i<len; i++){
-                TreeNode node=nodes.poll();
-                if(node.left==null && node.right==null && node.val==targetSum) return true;
-                if(node.left!=null){
-                    TreeNode left=node.left;
-                    left.val+=node.val;
-                    nodes.add(left);
-                } 
-                if(node.right!=null){
-                    TreeNode right=node.right;
-                    right.val+=node.val;
-                    nodes.add(right);
-                } 
-            }
+        if(root==null) return false;
+        targetSum-=root.val;
+        if(root.left==null && root.right==null){
+            return targetSum==0;
         }
-        return false;
+
+        boolean left=hasPathSum(root.left, targetSum);
+        boolean right=hasPathSum(root.right, targetSum);
+        return left||right;
 
     }
 }
