@@ -427,6 +427,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -560,6 +561,7 @@
 | [0110-balanced-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -574,6 +576,7 @@
 | [0110-balanced-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -601,6 +604,7 @@
 | [0110-balanced-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
