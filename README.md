@@ -221,6 +221,7 @@
 | [3726-remove-zeros-in-decimal-representation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Math
@@ -253,6 +254,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Brainteaser
 |  |
@@ -325,6 +327,7 @@
 | [3794-reverse-string-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [4006-count-valid-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Bit Manipulation
 |  |
