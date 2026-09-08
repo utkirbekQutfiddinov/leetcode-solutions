@@ -252,6 +252,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3870-count-commas-in-range](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
