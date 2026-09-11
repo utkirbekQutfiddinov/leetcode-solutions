@@ -98,6 +98,7 @@
 | [3637-trionic-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -170,6 +171,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3663-find-the-least-frequent-digit](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
