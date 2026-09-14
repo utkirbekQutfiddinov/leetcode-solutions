@@ -243,6 +243,7 @@
 | [0292-nim-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -666,6 +667,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Interactive
 |  |
