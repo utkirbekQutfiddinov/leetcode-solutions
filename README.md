@@ -107,6 +107,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -266,6 +267,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
