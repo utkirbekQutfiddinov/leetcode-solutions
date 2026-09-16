@@ -110,6 +110,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -219,6 +220,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Simulation
 |  |
