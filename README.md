@@ -124,6 +124,7 @@
 | [3903-smallest-stable-index-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
+| [3921-score-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -257,6 +258,7 @@
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Math
@@ -377,6 +379,7 @@
 | [3856-trim-trailing-vowels](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3921-score-validator) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4006-count-valid-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Bit Manipulation
