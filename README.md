@@ -120,6 +120,7 @@
 | [3866-first-unique-even-element](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
@@ -503,6 +504,7 @@
 | [3745-maximize-expression-of-three-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3833-count-dominant-indices) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
