@@ -123,6 +123,7 @@
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
+| [3917-count-indices-with-opposite-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
