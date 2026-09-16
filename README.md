@@ -115,6 +115,7 @@
 | [3833-count-dominant-indices](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -191,6 +192,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3803-count-residue-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
@@ -540,6 +542,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [4006-count-valid-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Linked List
 |  |
