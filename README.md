@@ -243,6 +243,7 @@
 | [3769-sort-integers-by-binary-reflection](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Simulation
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | [3921-score-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [4006-count-valid-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Bit Manipulation
 |  |
@@ -462,6 +464,7 @@
 | [3884-first-matching-character-from-both-ends](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
 |  |
 | ------- |
