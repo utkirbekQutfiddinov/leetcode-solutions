@@ -311,6 +311,7 @@
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [3996-even-number-of-knight-moves](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3996-even-number-of-knight-moves) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Brainteaser
 |  |
@@ -507,6 +508,7 @@
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Stack
 |  |
 | ------- |
