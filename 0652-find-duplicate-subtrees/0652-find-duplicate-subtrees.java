@@ -33,14 +33,15 @@ class Solution {
     private String dfs(TreeNode node){
         if(node==null) return "_";
         StringBuilder sb=new StringBuilder();
+
         if(node.left==null) sb.append("L");
         else sb.append(dfs(node.left));
 
-        sb.append(",")
-            .append(node.val)
-            .append(",");
+        sb.append(",").append(node.val).append(",");
+
         if(node.right==null) sb.append("R");
         else sb.append(dfs(node.right));
+        
         String hash=sb.toString();
         map.put(hash, node);
         freqs.merge(hash, 1, Integer::sum);
