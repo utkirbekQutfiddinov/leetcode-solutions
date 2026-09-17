@@ -130,6 +130,7 @@
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3978-unique-middle-element) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4008-restore-finishing-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4020-elevator-requests-i) |
@@ -305,6 +306,7 @@
 | [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3959-check-good-integer) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Brainteaser
