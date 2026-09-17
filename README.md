@@ -404,6 +404,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -523,6 +524,7 @@
 | [3827-count-monobit-integers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
@@ -530,6 +532,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
