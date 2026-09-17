@@ -265,6 +265,7 @@
 | [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
@@ -302,6 +303,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3908-valid-digit-number) |
+| [3959-check-good-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3959-check-good-integer) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Brainteaser
