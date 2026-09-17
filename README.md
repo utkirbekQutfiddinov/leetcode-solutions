@@ -155,6 +155,7 @@
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0652-find-duplicate-subtrees](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0705-design-hashset](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0748-shortest-completing-word) |
@@ -650,6 +651,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -672,6 +674,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -709,6 +712,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
