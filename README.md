@@ -383,6 +383,7 @@
 | [3884-first-matching-character-from-both-ends](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3921-score-validator) |
+| [3931-check-adjacent-digit-differences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4006-count-valid-prefixes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Bit Manipulation
