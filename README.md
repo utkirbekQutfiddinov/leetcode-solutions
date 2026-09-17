@@ -403,6 +403,7 @@
 | [3674-minimum-operations-to-equalize-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3827-count-monobit-integers) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Two Pointers
 |  |
 | ------- |
