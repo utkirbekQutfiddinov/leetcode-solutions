@@ -96,6 +96,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3531-count-covered-buildings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
