@@ -392,6 +392,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3407-substring-matching-pattern](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 | [3498-reverse-degree-of-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -782,6 +783,7 @@
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0796-rotate-string) |
+| [3407-substring-matching-pattern](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 ## Union-Find
 |  |
 | ------- |
