@@ -93,6 +93,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3467-transform-array-by-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -524,6 +525,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -671,6 +673,7 @@
 | [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Number Theory
 |  |
 | ------- |
