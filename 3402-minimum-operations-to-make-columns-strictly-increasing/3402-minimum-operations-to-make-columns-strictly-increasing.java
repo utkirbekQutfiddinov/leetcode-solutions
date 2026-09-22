@@ -1,3 +1,11 @@
+/*
+{
+    "history":[
+        {"date":"22.09.2026", "type": "solving", "notes":"O(n^2)"}
+    ]
+}
+ */
+
 class Solution {
     public int minimumOperations(int[][] grid) {
         int res=0;
