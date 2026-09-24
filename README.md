@@ -95,6 +95,7 @@
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3467-transform-array-by-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -270,6 +271,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3582-generate-tag-for-video-caption) |
@@ -680,6 +682,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Number Theory
 |  |
 | ------- |
