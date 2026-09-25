@@ -43,6 +43,7 @@
 | [0766-toeplitz-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0853-car-fleet](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -302,6 +303,7 @@
 | [0441-arranging-coins](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -789,6 +791,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Interactive
@@ -859,4 +862,8 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
