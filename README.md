@@ -42,6 +42,7 @@
 | [0748-shortest-completing-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0853-car-fleet](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -371,6 +372,7 @@
 | [0748-shortest-completing-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0824-goat-latin) |
