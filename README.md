@@ -97,6 +97,7 @@
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -670,6 +671,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3707-equal-score-substrings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
