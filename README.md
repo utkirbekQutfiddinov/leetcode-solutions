@@ -96,6 +96,7 @@
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3467-transform-array-by-parity](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
