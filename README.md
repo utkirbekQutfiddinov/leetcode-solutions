@@ -37,6 +37,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
@@ -573,6 +574,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0746-min-cost-climbing-stairs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
