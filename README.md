@@ -26,6 +26,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -270,6 +271,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -699,6 +701,7 @@
 | [0074-search-a-2d-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
