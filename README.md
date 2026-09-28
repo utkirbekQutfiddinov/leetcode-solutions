@@ -49,6 +49,7 @@
 | [0853-car-fleet](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0883-projection-area-of-3d-shapes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0908-smallest-range-i) |
@@ -309,6 +310,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -699,6 +701,7 @@
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -803,6 +806,7 @@
 | ------- |
 | [0812-largest-triangle-area](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Interactive
 |  |
