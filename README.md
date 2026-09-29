@@ -13,6 +13,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -599,6 +600,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0746-min-cost-climbing-stairs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
