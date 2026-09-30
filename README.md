@@ -64,6 +64,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0999-available-captures-for-rook](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1089-duplicate-zeros) |
@@ -321,6 +322,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-add-to-array-form-of-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
