@@ -63,6 +63,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0999-available-captures-for-rook](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
@@ -251,6 +252,7 @@
 | [0853-car-fleet](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -324,6 +326,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -559,6 +562,7 @@
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -899,6 +903,7 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -908,4 +913,8 @@
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
