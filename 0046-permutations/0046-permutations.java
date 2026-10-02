@@ -1,23 +1,23 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res=new ArrayList<>();
-        getResult(res, new ArrayList<>(), new HashSet<>(), nums);
+        getResult(res, new ArrayList<>(), new boolean[nums.length], nums);
         return res;
     }
 
-    private void getResult(List<List<Integer>> res, List<Integer> currList, Set<Integer> usedIndexes, int[] source){
+    private void getResult(List<List<Integer>> res, List<Integer> currList, boolean[] used, int[] source){
             if(currList.size()==source.length)
             res.add(new ArrayList<>(currList));
 
             for(int i=0; i<source.length; i++){
-                if(usedIndexes.contains(i)){
+                if(used[i]){
                     continue;
                 }
 
-                usedIndexes.add(i);
+                used[i]=true;
                 currList.add(source[i]);
-                getResult(res, currList, usedIndexes, source);
-                usedIndexes.remove(i);
+                getResult(res, currList, used, source);
+                used[i]=false;
                 currList.removeLast();
             }
     }
