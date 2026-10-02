@@ -1,11 +1,11 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        return getResult(new ArrayList<>(), new HashSet<>(), nums);
+        List<List<Integer>> res=new ArrayList<>();
+        getResult(res, new ArrayList<>(), new HashSet<>(), nums);
+        return res;
     }
 
-    private List<List<Integer>> getResult(List<Integer> currList, Set<Integer> usedIndexes, int[] source){
-        List<List<Integer>> res=new ArrayList<>();
-
+    private void getResult(List<List<Integer>> res, List<Integer> currList, Set<Integer> usedIndexes, int[] source){
             if(currList.size()==source.length)
             res.add(new ArrayList<>(currList));
 
@@ -16,11 +16,9 @@ class Solution {
 
                 usedIndexes.add(i);
                 currList.add(source[i]);
-                res.addAll(getResult(currList, usedIndexes, source));
+                getResult(res, currList, usedIndexes, source);
                 usedIndexes.remove(i);
                 currList.removeLast();
             }
-
-        return res;
     }
 }
