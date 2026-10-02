@@ -1,21 +1,24 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> res=new ArrayList<>();
-        handle(res, "", n);
+        handle(res,new StringBuilder(), n);
         return res;
     }
 
-    private void handle(List<String> res, String curr, int n){
+    private void handle(List<String> res, StringBuilder curr, int n){
         if(curr.length()==2*n) {
-            if(isVPS(curr)) res.add(curr);
+            if(isVPS(curr)) res.add(curr.toString());
             return;
         }
-        handle(res, curr+"(", n);
-        handle(res, curr+")", n);
+        curr.append('(');
+        handle(res, curr, n);
+        curr.deleteCharAt(curr.length()-1);
+        curr.append(')');
+        handle(res, curr, n);
+        curr.deleteCharAt(curr.length()-1);
     }
 
-    
-    private boolean isVPS(String sb){
+    private boolean isVPS(StringBuilder sb){
         Stack<Character> stack=new Stack<>();
 
         for(int i=0; i<sb.length(); i++){
