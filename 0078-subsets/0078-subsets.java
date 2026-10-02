@@ -19,6 +19,6 @@ class Solution {
         for(int i=from+1; i<source.length; i++){
             getResult(res, list, i, source);
         }
-        list.remove(Integer.valueOf(source[from]));
+        list.removeLast();
     }
 }
