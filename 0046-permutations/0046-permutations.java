@@ -7,23 +7,19 @@ class Solution {
         List<List<Integer>> res=new ArrayList<>();
 
             if(currList.size()==source.length)
-            res.add(currList);
+            res.add(new ArrayList<>(currList));
 
-            Set<Integer> newSet;
-            List<Integer> newList;
             for(int i=0; i<source.length; i++){
                 if(usedIndexes.contains(i)){
                     continue;
                 }
 
-                newSet=new HashSet<>(usedIndexes);
-                newSet.add(i);
-
-                newList=new ArrayList<>(currList);
-                newList.add(source[i]);
-
-            res.addAll(getResult(newList, newSet, source));
-        }
+                usedIndexes.add(i);
+                currList.add(source[i]);
+                res.addAll(getResult(currList, usedIndexes, source));
+                usedIndexes.remove(i);
+                currList.removeLast();
+            }
 
         return res;
     }
