@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -868,6 +869,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Binary Search Tree
