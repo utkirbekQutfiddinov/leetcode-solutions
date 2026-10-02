@@ -380,6 +380,7 @@
 | [0005-longest-palindromic-substring](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0383-ransom-note](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -612,6 +613,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0746-min-cost-climbing-stairs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -871,6 +873,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -913,6 +916,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
 |  |
