@@ -31,6 +31,7 @@
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0539-minimum-time-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -249,6 +250,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -320,6 +322,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0539-minimum-time-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0728-self-dividing-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0812-largest-triangle-area) |
@@ -391,6 +394,7 @@
 | [0459-repeated-substring-pattern](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
