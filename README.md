@@ -409,6 +409,7 @@
 | [0824-goat-latin](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -599,6 +600,7 @@
 | [0739-daily-temperatures](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -926,6 +928,7 @@
 | [0020-valid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
 |  |
