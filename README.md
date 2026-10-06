@@ -413,6 +413,7 @@
 | [0859-buddy-strings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
@@ -572,6 +573,7 @@
 | [0455-assign-cookies](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -601,6 +603,7 @@
 | [0844-backspace-string-compare](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -933,6 +936,7 @@
 | [0022-generate-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
 |  |
