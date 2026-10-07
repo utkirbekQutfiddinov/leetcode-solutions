@@ -384,6 +384,7 @@
 | [0013-roman-to-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -815,6 +816,7 @@
 | [0112-path-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0993-cousins-in-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -894,6 +896,7 @@
 | [0046-permutations](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Binary Search Tree
 |  |
