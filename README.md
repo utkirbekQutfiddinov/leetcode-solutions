@@ -99,6 +99,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -616,6 +617,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
