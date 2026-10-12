@@ -73,6 +73,7 @@
 | [0999-available-captures-for-rook](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -584,6 +585,7 @@
 | [0942-di-string-match](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
