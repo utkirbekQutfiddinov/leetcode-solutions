@@ -140,6 +140,7 @@
 | [3701-compute-alternating-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -280,6 +281,7 @@
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -595,6 +597,7 @@
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Stack
