@@ -341,6 +341,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -379,11 +380,13 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1025-divisor-game) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -646,6 +649,7 @@
 | [0118-pascals-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -967,4 +971,8 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
