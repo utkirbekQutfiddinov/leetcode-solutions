@@ -77,6 +77,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -990,4 +991,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
