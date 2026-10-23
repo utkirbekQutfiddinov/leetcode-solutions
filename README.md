@@ -85,6 +85,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -785,6 +786,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
