@@ -309,6 +309,7 @@
 | [1103-distribute-candies-to-people](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1688-count-of-matches-in-tournament](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -359,6 +360,7 @@
 | [1103-distribute-candies-to-people](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1688-count-of-matches-in-tournament](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
