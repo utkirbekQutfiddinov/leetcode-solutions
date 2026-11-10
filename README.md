@@ -79,6 +79,7 @@
 | [1037-valid-boomerang](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1319-unique-number-of-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -310,6 +311,7 @@
 | [0999-available-captures-for-rook](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1041-robot-bounded-in-circle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1688-count-of-matches-in-tournament](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -361,6 +363,7 @@
 | [1037-valid-boomerang](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1041-robot-bounded-in-circle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
