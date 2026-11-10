@@ -144,6 +144,7 @@
 | [3674-minimum-operations-to-equalize-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3693-climbing-stairs-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3697-compute-decimal-representation](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -677,6 +678,7 @@
 | [1025-divisor-game](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 |  |
