@@ -122,6 +122,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -702,6 +703,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -780,6 +782,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3364-minimum-positive-sum-subarray](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3707-equal-score-substrings](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
