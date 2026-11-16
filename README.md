@@ -28,6 +28,7 @@
 | [0228-summary-ranges](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -596,6 +597,7 @@
 | [0162-find-peak-element](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -687,6 +689,7 @@
 | [0118-pascals-triangle](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -1028,6 +1031,7 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0944-delete-columns-to-make-sorted](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Quicksort
 |  |
