@@ -1,15 +1,16 @@
 class Solution {
     public int climbStairs(int n, int[] costs) {
-        int[] res=new int[n+1];
-        res[0]=0;
+        int a3=Integer.MAX_VALUE/2, a2=Integer.MAX_VALUE/2, a1=0;
 
         for(int i=1; i<=n; i++){
-            res[i]=res[i-1]+costs[i-1]+1;
-
-            if(i-2>=0) res[i]=Math.min(res[i], res[i-2]+costs[i-1]+4);
-            if(i-3>=0) res[i]=Math.min(res[i], res[i-3]+costs[i-1]+9);
+            int curr=costs[i-1]+1+a1;
+            curr=Math.min(curr, costs[i-1]+4+a2);
+            curr=Math.min(curr, costs[i-1]+9+a3);
+            a3=a2;
+            a2=a1;
+            a1=curr;
         }
 
-        return res[n];
+        return a1;
     }
 }
