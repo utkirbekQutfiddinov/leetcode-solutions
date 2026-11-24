@@ -130,6 +130,7 @@
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -380,6 +381,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3492-maximum-containers-on-a-ship](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3524-find-x-value-of-array-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -673,6 +675,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3827-count-monobit-integers) |
@@ -718,6 +721,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -824,6 +828,7 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/utkirbekQutfiddinov/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
